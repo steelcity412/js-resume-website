@@ -1,3 +1,3 @@
-# js-ns8k81
+# js-resume-website
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-resume-website)
